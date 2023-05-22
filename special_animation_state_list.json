@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "key": "welcome",
     "name": "Welcome",
     "from": 202305221246,
@@ -9,7 +8,14 @@
     "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
   },
   {
-    "id": 2,
+    "key": "eid_ul_adha",
+    "name": "Eid Ul Adha",
+    "from": 202305201246,
+    "to": 202305221300,
+    "count": 2,
+    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+  },
+  {
     "key": "eid_ul_adha",
     "name": "Eid Ul Adha",
     "from": 202305201246,
